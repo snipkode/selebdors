@@ -19,7 +19,7 @@ Welcome to the Influencer Management System! This application helps influencers 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/influencer-management-system.git
+   git clone https://github.com/snipkode/selebdors.git
    cd influencer-management-system
    ```
 
